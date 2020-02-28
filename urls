@@ -1,0 +1,15 @@
+http://localhost:8080/shiro.demo
+http://localhost:8080/shiro.demo/user/index.shtml
+http://localhost:8080/shiro.demo/?login
+http://localhost:8080/shiro.demo/u/login.shtml
+http://localhost:8080/shiro.demo/u/login.shtml?kickout
+http://localhost:8080/shiro.demo/css/common/base.css
+http://localhost:8080/shiro.demo/js/common/html5shiv.js
+http://localhost:8080/shiro.demo/role/mypermission.shtml
+http://localhost:8080/shiro.demo/member/online.shtml
+http://localhost:8080/shiro.demo/role/index.shtml
+http://localhost:8080/shiro.demo/role/allocation.shtml
+http://localhost:8080/shiro.demo/aaa
+http://localhost:8080/shiro.demo/.shtml
+http://localhost:8080/shiro.demo/open/unauthorized.shtml
+http://localhost:8080/shiro.demo/open/kickOut.shtml
